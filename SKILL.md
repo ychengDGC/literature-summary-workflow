@@ -1,5 +1,5 @@
 ---
-name: literature-summary-workflow
+name: literature-summary
 description: Analyze research-paper PDFs into evidence-grounded Chinese literature summaries, including research logic, methods, conclusions, Figure/panel interpretation, journal and corresponding-author profiles, polished Word reports, and optional journal-club PPTX decks. Use when a user uploads or names a paper PDF and asks for 文献总结、文献归纳、逐图解读、论文汇报、journal club、文献 Word 报告 or 文献汇报 PPT.
 ---
 
