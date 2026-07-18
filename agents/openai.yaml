@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献归纳工作流"
+  short_description: "从研究论文 PDF 生成可核验的中文归纳、Word 与按需 PPT。"
+  default_prompt: "请分析这篇 PDF，输出中文文献归纳，并按需生成汇报 PPT。"
